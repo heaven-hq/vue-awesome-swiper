@@ -35,7 +35,7 @@ export default function getSwiperComponent(SwiperClass: typeof Swiper) {
         type: Boolean,
         default: true
       },
-      // https://github.com/surmon-china/vue-awesome-swiper/pull/550/files
+      // https://github.com/surmon-china/vue-awesome-swiper/pull/550/files 
       [ComponentPropNames.AutoDestroy]: {
         type: Boolean,
         default: true
